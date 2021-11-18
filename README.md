@@ -5,7 +5,7 @@ This game allows two users to play the game of Tic-Tac-Toe. The game is made to 
 
 ### Instructions
 Simply clone the project to your computer. Make sure you have python installed on your computer.
-The package required for this game to be played are numpy and curses.
+The extensions required for this game to be played are numpy and curses.
 The game can be played by running main.py in the command line with the command python main.py in the folder where you cloned the file.
 
 ### Usage
