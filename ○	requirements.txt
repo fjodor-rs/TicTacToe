@@ -1,0 +1,9 @@
+For this project I've made a simple CLI game using the curses and numpy extension to add some complexity.
+The two symbols are assigned according to the player's current turn and the game can be reset using the R-key.
+By using matrices instead of a different data structure to store the board's state, the victory condition check becomes trivial.
+Curses is used to give the players a more interactive experience.
+
+I created a base version of the game with no packages first, which used a visual representation.
+This representation showed the board and all possible moves as a number. The player could then type the number to make the move.
+To increase the interaction and improve the visuals a bit, I made use of the curses extension.
+The base version of the game cost me about 1-2 hours to create, improving the original game with the curses and numpy extension cost me another 2 hours.
